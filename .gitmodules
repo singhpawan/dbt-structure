@@ -1,0 +1,3 @@
+[submodule "dbt-project"]
+	path = dbt-project
+	url = https://github.com/singhpawan/dbt-structure.git
