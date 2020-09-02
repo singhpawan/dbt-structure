@@ -1,0 +1,2 @@
+# dbt-structure
+example structure
